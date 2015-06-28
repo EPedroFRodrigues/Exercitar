@@ -1,0 +1,47 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context=".ListActivity"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#ffffff">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imagemTuto"
+        android:layout_gravity="center"
+        android:src="@drawable/tuto1"
+        android:layout_weight="1" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Próximo"
+            android:id="@+id/btnNext"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:background="#FF9800"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pronto"
+            android:id="@+id/btnDone"
+            android:layout_gravity="bottom"
+            android:layout_weight="1"
+            android:background="#FF9800"
+            android:textColor="#ffffff" />
+
+        </LinearLayout>
+
+</LinearLayout>

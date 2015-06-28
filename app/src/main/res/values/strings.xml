@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Exercitar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_exercise">Cadastro de Exercícios</string>
+
+    <string name="horas_editData">Minutos</string>
+    <string name="data_editData">Data:</string>
+    <string name="esportes_editData">Esportes:</string>
+    <string name="cardio_editData">Cardio:</string>
+    <string name="musculacao_editData">Musculação:</string>
+    <string name="total_editData">Total:</string>
+    <string name="Edit_Value">Editar Registro</string>
+    <string name="Delete_Value">Excluir Registro</string>
+
+    <string name="successDelete">Excluído com sucesso</string>
+    <string name="deleteValue">Tem certeza de que deseja excluir o registro?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="title_activity_list">Lista de Exercícios</string>
+    <string name="Gera_Relatorio">Listar Exercícios</string>
+    <string name="Share_Content">Compartilhar</string>
+
+
+    <string name="facebook_app_id">100457083626865</string>
+    <string name="alterationsSave">Salve as alterações primeiro</string>
+    <string name="title_activity_splash">Exercitar</string>
+    <string name="title_activity_main">Exercitar - Calendário</string>
+    <string name="title_activity_tutorial">TutorialActivity</string>
+    <string name="Aprender">Aprenda</string>
+
+</resources>

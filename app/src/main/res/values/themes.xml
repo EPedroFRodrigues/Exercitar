@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_background">#689F38</color>
+    <color name="actionbar_text">#DCEDC8</color>
+    <color name="primary_color">#8BC34A</color>
+    <color name="menu_bg">#FF9800</color>
+    <color name="menu_texto">#DCEDC8</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="divider">#B6B6B6</color>
+
+
+</resources>
